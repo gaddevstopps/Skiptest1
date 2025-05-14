@@ -1,0 +1,13 @@
+
+{
+  "name": "apify-dynamic-mailing-actor",
+  "version": "1.0.0",
+  "description": "Apify actor that dynamically processes mailing address fields",
+  "main": "main.js",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
